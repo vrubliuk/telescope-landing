@@ -1,0 +1,26 @@
+<svg data-name="Funnel overview icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.98 42.49">
+    <g data-name="Dashboard view icon">
+        <g data-name="Group 289">
+            <g data-name="Group 288">
+                <path data-name="Rectangle 232" d="M47.98 40.89h1v1.6h-1z"/>
+            </g>
+        </g>
+        <g data-name="Group 290">
+            <path data-name="Path 461" d="M0 0v42.49h47.98v-1.6H1.59V10.25h46.39v30.64h1v1.6h1V0zm47.98 8.25H1.59V2h46.39z"/>
+            <path data-name="Rectangle 233" d="M47.98 40.89h1v1.6h-1z"/>
+        </g>
+        <g data-name="Group 291">
+            <path data-name="Path 462" d="M36.31 14.17a8.735 8.735 0 108.74 8.73 8.747 8.747 0 00-8.74-8.73zm-6.74 8.73a6.624 6.624 0 01.4-2.28l4.86 2.62-3.23 4.47a6.679 6.679 0 01-2.03-4.81zm6.74 6.74a6.6 6.6 0 01-3.09-.76l4.57-6.32-6.86-3.7a6.735 6.735 0 115.38 10.78z"/>
+        </g>
+        <g data-name="Group 292">
+            <path data-name="Rectangle 234" d="M28.57 35.51h15.48v2H28.57z"/>
+        </g>
+    </g>
+    <g data-name="Group 2974">
+        <path data-name="Path 2638" d="M12.256 26.327h7.005l-1.386 2.751h-4.234z"/>
+        <path data-name="Path 2639" d="M22.247 20.413l-2.2 4.361h-8.574l-2.2-4.361z"/>
+        <path data-name="Path 2640" d="M25.518 13.927l-2.486 4.927H8.487l-2.486-4.927z"/>
+        <path data-name="Rectangle 979" d="M13.655 34.425h4.122V36.7h-4.122z"/>
+        <path data-name="Rectangle 980" d="M13.655 30.381h4.122v3.039h-4.122z"/>
+    </g>
+</svg>

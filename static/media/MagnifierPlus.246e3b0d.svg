@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.327 24.178">
+    <g data-name="search icon">
+        <g data-name="Ellipse 97" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="9.775" cy="9.775" r="9.775" stroke="none"/>
+            <circle cx="9.775" cy="9.775" r="8.775"/>
+        </g>
+        <path data-name="Line 105" fill="none" stroke="currentColor" stroke-width="2" d="M17.916 17.767l5.704 5.704"/>
+        <path data-name="Union 78" d="M8.764 13.401V10.31H6.052V8.492h2.712V5.401h1.75v3.091h2.538v1.818h-2.538v3.091z"/>
+    </g>
+</svg>

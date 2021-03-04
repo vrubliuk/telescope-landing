@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.646 50.646">
+    <g data-name="Group 671">
+        <path data-name="Rectangle 864" d="M24.218 4.554h2.211v41.539h-2.211z"/>
+        <path data-name="Rectangle 865" d="M46.092 24.218v2.211H4.553v-2.211z"/>
+        <path data-name="Path 607" d="M25.323 0l-2.277 4.554H27.6z"/>
+        <path data-name="Path 608" d="M50.647 25.323l-4.554-2.277V27.6z"/>
+        <path data-name="Path 609" d="M0 25.323L4.554 27.6v-4.554z"/>
+        <path data-name="Path 610" d="M25.323 50.646l2.277-4.554h-4.554z"/>
+        <g data-name="Group 665">
+            <g data-name="Group 660">
+                <path data-name="Path 611" d="M39.741 14.653a3.36 3.36 0 01-3.356-3.356h1.151a2.205 2.205 0 004.41 0h1.15a3.359 3.359 0 01-3.355 3.356z"/>
+            </g>
+            <g data-name="Group 662">
+                <g data-name="Group 661">
+                    <path data-name="Path 612" d="M37.871 8.442a.744.744 0 11-.744-.744.745.745 0 01.744.744z"/>
+                </g>
+            </g>
+            <g data-name="Group 664">
+                <g data-name="Group 663">
+                    <path data-name="Path 613" d="M43.028 8.442a.744.744 0 11-.744-.744.745.745 0 01.744.744z"/>
+                </g>
+            </g>
+            <path data-name="Path 614" d="M39.738 18.258a7.813 7.813 0 117.812-7.812 7.821 7.821 0 01-7.812 7.812zm0-14.578a6.766 6.766 0 106.766 6.766 6.773 6.773 0 00-6.766-6.766z"/>
+        </g>
+        <g data-name="Group 666">
+            <path data-name="Path 615" d="M11.313 40.048a3.337 3.337 0 013.334 3.334h-1.143a2.19 2.19 0 10-4.381 0H7.979a3.338 3.338 0 013.334-3.334z"/>
+        </g>
+        <g data-name="Group 668">
+            <g data-name="Group 667">
+                <path data-name="Path 616" d="M9.455 37.212a.739.739 0 11-.739-.739.74.74 0 01.739.739z"/>
+            </g>
+        </g>
+        <g data-name="Group 670">
+            <g data-name="Group 669">
+                <path data-name="Path 617" d="M14.578 37.212a.739.739 0 11-.739-.739.74.74 0 01.739.739z"/>
+            </g>
+        </g>
+        <path data-name="Path 618" d="M11.312 46.963a7.762 7.762 0 117.763-7.762 7.771 7.771 0 01-7.763 7.762zm0-14.485a6.723 6.723 0 106.722 6.724 6.731 6.731 0 00-6.722-6.724z"/>
+    </g>
+</svg>
